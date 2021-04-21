@@ -20,9 +20,9 @@ Besides programming, I also like to write about personal finance, lifestyle and 
 
 Check out my blogs:
 
-💻 **https://CarolPelu.com**
+💰 **https://CarolPelu.com**
 
-💰 **https://Neutrondev.com**
+💻 **https://Neutrondev.com**
 
 
 👇 You can also follow me on:
