@@ -31,4 +31,6 @@ Check out my blogs:
 
 **https://twitter.com/pelu_carol**
 
-**https://www.youtube.com/channel/UCwZxjR4sMSo8gXocPQX2Cpg**
+Personal Finance YouTube channel: **https://www.youtube.com/channel/UCwZxjR4sMSo8gXocPQX2Cpg**
+
+Programming tutorials YouTube channel: **https://www.youtube.com/channel/UCam2FHXijtbff4uW2VglGtA**
