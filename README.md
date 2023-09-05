@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **Tynael/Tynael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is **Carol-Theodor Pelu** and I'm currently working as a **Full-Stack Web Developer**.
+I'm **Carol-Theodor Pelu**, a **Full-Stack Web Developer**.
 
-Check out my blog:
+In my free time, I write and record straight-to-the-point software development tutorials.
+
+From time to time I'm also contributing to open-source and mentor junior developers.
+
+**Check out my blog**:
 
 💻 **https://NeutronDev.com**
 
@@ -26,7 +30,5 @@ Check out my blog:
 **[YouTube](https://www.youtube.com/neutrondev)**
 
 **[Instagram](https://www.instagram.com/neutrondevcom/)**
-
-**[Twitter](https://twitter.com/pelu_carol)**
 
 **[Facebook](https://www.facebook.com/neutrondevcom)**
