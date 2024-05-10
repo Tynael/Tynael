@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm **Carol-Theodor Pelu**, a **Full-Stack Web Developer**.
+I'm **Carol-Theodor Pelu**, a **Software Engineer**.
 
 In my free time, I write and record straight-to-the-point software development tutorials.
 
-From time to time I'm also contributing to open-source and mentor junior developers.
+Sometimes I'm also contributing to open-source and mentoring junior developers.
 
 **Check out my blog**:
 
@@ -28,7 +28,3 @@ From time to time I'm also contributing to open-source and mentor junior develop
 👇 You can also follow me on:
 
 **[YouTube](https://www.youtube.com/neutrondev)**
-
-**[Instagram](https://www.instagram.com/neutrondevcom/)**
-
-**[Facebook](https://www.facebook.com/neutrondevcom)**
